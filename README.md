@@ -1,7 +1,3 @@
-
-
-
-
 instagram4j
 ========
 ![Java CI with Gradle](https://github.com/instagram4j/instagram4j/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=develop)
@@ -11,6 +7,7 @@ instagram4j
 :camera: Java wrapper using OkHttpClient for Instagram's private api (Android emulation)
 ## Table of contents
  - [Install](#install)
+     - [Requirements](#requirements)
  - [Overview](#overview)
      - [Features](#features)
  - [Usage](#usage)
@@ -115,7 +112,6 @@ This library is in no way affiliated with, authorized, maintained, sponsored or 
 
 Contributors are not responsible for usage and maintainability. Due to the nature of this project, some features of the library are not guaranteed as they make change and break in the future. This library is licensed under ASL.
 
----
 ## Quick Usage
 **Login:**
 ```java
